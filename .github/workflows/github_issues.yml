@@ -15,7 +15,7 @@ jobs:
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "GithubIssues"
           ado_project: "Github"
-          ado_area_path: "One\\IoT\\Developers and Devices\\SDKs\\Managed"
+          ado_area_path: ""
           ado_wit: "Issue"
           ado_new_state: "New"
           ado_close_state: "Done"
