@@ -16,7 +16,7 @@ jobs:
           ado_organization: "GithubIssues"
           ado_project: "Github"
           ado_area_path: "One\\IoT\\Developers and Devices\\SDKs\\Managed"
-          ado_wit: "Product Backlog Item"
+          ado_wit: "Issue"
           ado_new_state: "New"
           ado_close_state: "Done"
           ado_bypassrules: true
