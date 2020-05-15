@@ -13,8 +13,8 @@ jobs:
         env:
           ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
-          ado_organization: "msazure"
-          ado_project: "One"
+          ado_organization: "GithubIssues"
+          ado_project: "Github"
           ado_area_path: "One\\IoT\\Developers and Devices\\SDKs\\Managed"
           ado_wit: "Product Backlog Item"
           ado_new_state: "New"
