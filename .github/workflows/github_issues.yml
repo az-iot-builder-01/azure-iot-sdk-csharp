@@ -15,7 +15,7 @@ jobs:
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "GithubIssues"
           ado_project: "Github"
-          ado_area_path: ""
+          ado_area_path: "Github"
           ado_wit: "Issue"
           ado_new_state: "To Do"
           ado_close_state: "Done"
